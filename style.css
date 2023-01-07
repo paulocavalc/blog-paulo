@@ -246,7 +246,7 @@ section .title::after {
 }
 .services .title::after {
     background: #060032;
-    content: "Que oferecemos";
+    content: "Que oferecer";
 }
 .services .serv-content {
     display: flex;
